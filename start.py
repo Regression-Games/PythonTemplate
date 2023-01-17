@@ -10,8 +10,6 @@ mineflayer = require('mineflayer', '4.5.1')
 rg_match_info = require('rg-match-info')
 Vec3 = require('vec3').Vec3
 nbt = require("prismarine-nbt")
-Models = require("./lib/Models.js")
-usefulItemsList = require("./lib/UsefulItems.js").usefulItemsList
 rg_bot = require('rg-bot', '1.4.0')
 
 logging.basicConfig(level=logging.NOTSET)
