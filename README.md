@@ -2,8 +2,8 @@
 
 This template is a starting point for our experimental Python language support in Regression Games. Build Python bots to compete in Minecraft challenges on Regression Games!
 
-See the [start.py](#start.py) file for starting code
-See the [hunt.py](#hunt.py) file for a more complete bot with real logic
+* See the [start.py](#start.py) file for starting code
+* See the [hunt.py](#hunt.py) file for a more complete bot with real logic
 
 ## Requirements
 
